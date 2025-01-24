@@ -1,0 +1,6 @@
+// https://docs.deno.com/runtime/fundamentals/configuration/
+{
+  "fmt": {
+    "lineWidth": 120
+  }
+}
